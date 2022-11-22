@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: yjung_3.jpg
+  image: yjung_2022.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
