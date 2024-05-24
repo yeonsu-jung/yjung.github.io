@@ -2,7 +2,7 @@
 layout: page
 title: tangled up
 description: spontaneous tangling threads
-img: /assets/img/shaking/shaking_streak.png
+img: /assets/img/tangle/rod-packing.png
 importance: 1
 ---
 
